@@ -27,15 +27,8 @@ Each project reflects my learning journey as I explore the intersection of **dat
 | Project | Description | Tools Used |
 |----------|--------------|-------------|
 | 📊 **Customer Trends End-to-End Analysis** | Built a complete data analytics workflow — from Python data prep to SQL insights and Power BI dashboards. | Python, SQL, Power BI |
-| 💼 **Layoffs 2022 Data Cleaning & EDA** | Cleaned and explored global layoffs data to uncover key patterns across industries, companies, and countries. | MySQL |
 | 🛒 **Zepto Product Data Analysis** | Analyzed product pricing, discount, and inventory data to identify best-value products and category-level revenue insights. | MySQL |
-
-
-
----
-
-## 🎯 What Drives Me  
-I believe data tells stories — not just of numbers, but of people, choices, and possibilities. I’m always curious to explore new datasets and bring insights to life through thoughtful visuals.  
+| 💼 **Layoffs 2022 Data Cleaning & EDA** | Cleaned and explored global layoffs data to uncover key patterns across industries, companies, and countries. | MySQL |
 
 ---
 
