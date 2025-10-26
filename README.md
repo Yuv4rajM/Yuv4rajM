@@ -1,13 +1,14 @@
 # 👋 Hey there! I’m Yuvaraj  
 
-Welcome to my little corner of GitHub — a space where I explore data, chase patterns, and turn numbers into stories.  
+Welcome to my little corner of GitHub  
 
-I enjoy diving deep into datasets to uncover insights that often hide in plain sight. Whether it’s a simple spreadsheet or a messy CSV, I love finding clarity through visualization and logic.  
+> 💡 *“Turning raw data into real stories.”*
+
 
 ---
 
 ## 📊 About This Portfolio  
-This repository is a collection of my data analytics projects and experiments — ranging from exploratory analysis to dashboard creation.  
+This repository is a collection of my data analytics projects — ranging from exploratory analysis to dashboard creation.  
 Each project reflects my learning journey as I explore the intersection of **data, creativity, and problem-solving**.  
 
 ---
@@ -38,8 +39,7 @@ I believe data tells stories — not just of numbers, but of people, choices, an
 
 ## 🌱 Currently Exploring  
 - Building data dashboards  
-- Automating reports  
-- Learning advanced Power BI and Python visualization  
+- Automating reports   
 
 ---
 
@@ -49,6 +49,4 @@ I’d love to exchange ideas, collaborate, or just talk about data!
 
 ---
 
-> 💡 *“Turning raw data into real stories.”*
 
--->
