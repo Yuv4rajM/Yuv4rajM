@@ -14,8 +14,8 @@ Each project reflects my learning journey as I explore the intersection of **dat
 ---
 
 ## 🧠 Skills & Tools  
-- **Data Analysis:** Excel, Python (pandas, NumPy), Power BI  
-- **Visualization:** Power BI, Matplotlib, Excel Charts  
+- **Data Analysis:** Excel,SQL, Python (pandas, NumPy), Power BI  
+- **Visualization:** Power BI, Excel Charts  
 - **Data Cleaning:** Excel formulas, pandas  
 - **Storytelling:** Presenting insights with clarity and creativity  
 
