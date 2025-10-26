@@ -45,7 +45,7 @@ I believe data tells stories — not just of numbers, but of people, choices, an
 
 ## 📬 Let’s Connect  
 I’d love to exchange ideas, collaborate, or just talk about data!  
-📧 [Your Email or LinkedIn link here]  
+📧 [yuvaraj98808@gmail.com or www.linkedin.com/in/yuv4rajm]  
 
 ---
 
