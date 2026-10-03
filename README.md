@@ -5,7 +5,7 @@
 ### 📊 About This Portfolio
 This repository is a showcase of my data engineering projects. I specialize in building end-to-end data pipelines, implementing Medallion architectures, and transforming raw, unstructured data into reliable, production-ready assets. 
 
-Applying rigorous software quality assurance standards to data workflows, I focus on developing Central Data Lakes (CDL) capable of supporting complex enterprise environments. I am particularly focused on architecting L0/L1/L2 schemas and building resilient data models for highly regulated domains, such as Healthcare, Pharmaceuticals, and Engineering & Plant Services (E&PS).
+Applying rigorous software quality assurance standards to data workflows, I focus on developing Central Data Lakes (CDL) capable of supporting complex enterprise environments. I am particularly focused on architecting L0/L1/L2 schemas and building resilient data models for highly regulated domains, such as Healthcare, Pharmaceuticals.
 
 ### 🧠 Skills & Tools
 * **Data Engineering & Compute:** PySpark, Serverless Databricks, Python, SQL, ELT Pipelines
