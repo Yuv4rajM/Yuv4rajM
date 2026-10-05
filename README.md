@@ -1,34 +1,27 @@
-# 👋 Hey there! I’m Yuvaraj
+# Hi there 👋, I'm Yuvaraj M
 
-**💡 Architecting robust, quality-tested data pipelines and scalable Cloud Data Lakes.**
+### ☁️ Data Engineer | Databricks & Cloud Data Lakes | Medallion Architecture
 
-### 📊 About This Portfolio
-This repository is a showcase of my data engineering projects. I specialize in building end-to-end data pipelines, implementing Medallion architectures, and transforming raw, unstructured data into reliable, production-ready assets. 
+I specialize in architecting scalable ETL/ELT pipelines and enterprise Data Lakehouses. My core focus is building resilient end-to-end Medallion data pipelines (Bronze/Silver/Gold) using Azure, Databricks, and PySpark to transform unstructured telemetry into production-ready, governed assets.
 
-Applying rigorous software quality assurance standards to data workflows, I focus on developing Central Data Lakes (CDL) capable of supporting complex enterprise environments. I am particularly focused on architecting L0/L1/L2 schemas and building resilient data models.
+### 🛠️ Technical Stack
+* **Data Processing:** PySpark, Apache Spark, Databricks (Serverless), Python, SQL
+* **Cloud & Storage:** Microsoft Azure (ADLS Gen2, Azure Data Factory), Google Cloud Platform (GCP)
+* **Architecture:** Medallion Architecture, Cloud Data Lakes (CDL), Delta Lake
+* **Governance & DevOps:** Unity Catalog, Git, CI/CD, Docker, n8n Workflow Automation
 
-### 🧠 Skills & Tools
-* **Data Engineering & Compute:** PySpark, Serverless Databricks, Python, SQL, ELT Pipelines
-* **Cloud & Warehousing:** Azure, Google Cloud Platform (GCP), BigQuery, Supabase
-* **Architecture & Governance:** Medallion Architecture (Bronze/Silver/Gold), Cloud Data Lakes (CDL), Data Quality Testing
-* **Domain Knowledge:** Healthcare, Pharmaceuticals, E&PS Data Models
-* **DevOps & Tooling:** Git Monorepos, `uv` dependency management, Docker, n8n automation
-* **Infrastructure:** Linux (Debian) Home Labs, Tailscale, Network Telemetry
+---
 
-### 🚀 Featured Projects
-*(Actively updated with my latest pipeline and architecture builds)*
+### 🚀 Featured Engineering Projects
 
-| Project | Description | Tools Used |
-| :--- | :--- | :--- |
-| **🛡️ AdGuard Telemetry CDL** | Built an end-to-end Medallion architecture ingesting local network DNS telemetry into a Databricks Cloud Data Lake using a hybrid Python/PySpark version-controlled workflow. | Databricks, PySpark, Python, Git |
-| **📈 FinOps & Infrastructure Telemetry** | Engineered automated telemetry pipelines connecting GCP billing exports with analytical engines to monitor and optimize infrastructure costs. | BigQuery, Databricks, GCP |
-| **⚙️ Cloud Workflow Orchestration** | Deployed self-hosted n8n automation workflows on a GCP virtual machine using Docker and dynamic subdomains, integrated with a Supabase backend. | Docker, n8n, GCP, Supabase |
-| **📊 Customer Trends Data Pipeline** | Developed a complete analytical workflow spanning Python data preparation, SQL transformations, and visualization. | Python, SQL, Power BI |
+#### 1. [FinOps & Infrastructure Telemetry Pipeline](https://github.com/Yuv4rajM/finops-telemetry-lakehouse)
+An end-to-end enterprise pipeline using a Medallion Architecture to process cloud infrastructure billing telemetry. Built to monitor, visualize, and optimize compute costs using Databricks and PySpark.
 
-### 🌱 Currently Exploring
-* Advanced Databricks optimizations and enterprise-scale Azure integrations.
-* Architecting resilient CDL pipelines for medical and pharmaceutical E&PS projects (e.g., J&J, Pfizer ecosystems).
-* AI-assisted data wrangling and advanced prompt engineering for data workflows.
+#### 2. [AdGuard Telemetry Cloud Data Lake (CDL)](https://github.com/Yuv4rajM/adguard-telemetry-cdl)
+A hybrid Python/PySpark version-controlled workflow that securely bridges on-premise network data with a cloud-native Data Lakehouse. Includes a local Python extraction client utilizing `requests` to ingest DNS telemetry into a Delta Lake.
 
-### 📬 Let’s Connect
-I’m always open to exchanging ideas about data architecture, pipeline optimization, or homelab server setups. Let's talk data!
+---
+
+### 📫 Let's Connect
+* **LinkedIn:** [linkedin.com/in/Yuv4rajM](https://linkedin.com/in/Yuv4rajM/)
+* **Email:** yuvaraj98808@gmail.com
